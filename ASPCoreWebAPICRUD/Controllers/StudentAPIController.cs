@@ -33,7 +33,7 @@ namespace ASPCoreWebAPICRUD.Controllers
             {
                 return NotFound();
             }
-            return data; 
+            return data;    
         }
 
         [HttpPost]
