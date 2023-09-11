@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPCoreWebAPICRUD", "ASPCoreWebAPICRUD\ASPCoreWebAPICRUD.csproj", "{F597E040-E1BD-4F09-8242-EE32C8E41CFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F597E040-E1BD-4F09-8242-EE32C8E41CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F597E040-E1BD-4F09-8242-EE32C8E41CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F597E040-E1BD-4F09-8242-EE32C8E41CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F597E040-E1BD-4F09-8242-EE32C8E41CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9C41669-8B31-4D31-998A-FAD9AD7A2294}
+	EndGlobalSection
+EndGlobal
